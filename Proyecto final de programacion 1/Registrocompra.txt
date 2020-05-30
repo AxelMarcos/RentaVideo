@@ -1,0 +1,10 @@
+**********Datos de la compra**********
+Codigo del cliente:
+123
+Nombre cliente:
+Bonifacio
+Producto del cliente:
+Tarzan
+Cantidad del producto:
+1
+*************************************

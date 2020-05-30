@@ -1,0 +1,11 @@
+Nombre del producto:
+Tarzan
+Costo de fabrica:
+25.0
+Precio de venta:
+50.0
+Unidades:
+12
+Ganancias:
+300.0
+****************************

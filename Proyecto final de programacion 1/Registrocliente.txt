@@ -1,0 +1,12 @@
+**********Datos del cliente**********
+Nombre del cliente:
+Bonifacio Ceferino Patal Gómez
+Codigo del cliente:
+132
+Telefono del cliente:
+45621354
+Nit del cliente:
+123564-k
+Dirección del cliente:
+Patzun
+*************************************

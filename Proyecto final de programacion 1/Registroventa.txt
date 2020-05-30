@@ -1,0 +1,13 @@
+**********Datos de la venta**********
+Codigo del cliente:
+123
+Nombre cliente:
+Bonifacio
+Producto del cliente:
+Tarzan
+Cantidad del producto:
+1
+Costo de fabrica25.0
+Precio de venta50.0
+Ganancia25.0
+*************************************
