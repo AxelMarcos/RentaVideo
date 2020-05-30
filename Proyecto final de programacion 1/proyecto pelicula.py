@@ -3,8 +3,8 @@
 #Nombre: Axel Marcos Humberto Olcot Patal
 #No. de carnet: 1990-19-6785
 #Lugar y fecha: Patzun, 06/05/2020
-#consiste en registrar por medio de ARCHIVOS,  “Las ventas de Peliculas y de contenido de Video”, contando con los siguientes datos: Nombre del producto,
-#el cosco de fabricacion, precio de la venta del producto, las unidade , y ganancias.
+#consiste en registrar por medio de ARCHIVOS,  “Las ventas de Peliculas y de contenido de Video”, usando un sistema de inventario donde podremos Agregar, Modificar
+# Buscar, Mostrar y Eliminar Datos, dependiendo lo que necesite el Usario.
 
 import os
 
